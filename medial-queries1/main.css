@@ -40,22 +40,12 @@ body {
     flex-basis: 100%;
   }
 
-  /* 
+
   .b {
-    display: inline-block;
-    width: 80%;
+    flex: 1;
   }
 
   .c {
-    display: inline-block;
-    width: 16%;
-  } */
-}
-
-.b {
-  flex: 3;
-}
-
-.c {
-  flex: 1;
+    flex: 1;
+  }
 }
